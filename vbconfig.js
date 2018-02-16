@@ -9,7 +9,7 @@ var dynamic_st_host_resolution = true;
  * IP address/logical host name of the machine which hosts SemanticTurkey.
  * Configure this parameter only if dynamic_st_host_resolution is set to false.
  */
-var st_host = "10.129.30.209";
+var st_host = "10.131.31.133";
 
 /**
  * Port where SemanticTurkey server is listening (optional)
