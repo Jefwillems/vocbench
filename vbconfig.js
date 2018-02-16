@@ -9,7 +9,7 @@ var dynamic_st_host_resolution = true;
  * IP address/logical host name of the machine which hosts SemanticTurkey.
  * Configure this parameter only if dynamic_st_host_resolution is set to false.
  */
-var st_host = "127.0.0.1";
+var st_host = "172.30.19.233";
 
 /**
  * Port where SemanticTurkey server is listening (optional)
@@ -22,7 +22,7 @@ var st_port = "1979";
  *  http://semanticturkey.uniroma2.it/doc/user/web_api.jsf#services_address_structure
  *  This additional path information is considered to be the starting part of the path described above, 
  *  and is usually necessary in case Semantic Turkey is installed behind a proxy redirecting the ST URL.
- */ 
+ */
 var st_path;
 
 /**
