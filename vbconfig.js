@@ -9,7 +9,7 @@ var dynamic_st_host_resolution = false;
  * IP address/logical host name of the machine which hosts SemanticTurkey.
  * Configure this parameter only if dynamic_st_host_resolution is set to false.
  */
-var st_host = "http://vb-skosmos.e4ff.pro-eu-west-1.openshiftapps.com";
+var st_host = "vb-skosmos.e4ff.pro-eu-west-1.openshiftapps.com";
 
 /**
  * Port where SemanticTurkey server is listening (optional)
