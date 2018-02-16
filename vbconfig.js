@@ -3,7 +3,7 @@
  * N.B. This can be left to true only if VocBench3 and SemanticTurkey are running on the same machine,
  * otherwise, set this to false and change the value of the st_host parameter
  */
-var dynamic_st_host_resolution = true;
+var dynamic_st_host_resolution = false;
 
 /**
  * IP address/logical host name of the machine which hosts SemanticTurkey.
